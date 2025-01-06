@@ -1,6 +1,8 @@
 # Python implementation of tic tac toe
 # Game is played from the command line
 
+# ***** From Clever Programmer on YouTube *****
+
 
 # -------------- Global Variables -------------- 
 
